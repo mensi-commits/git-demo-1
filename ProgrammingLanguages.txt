@@ -1,6 +1,4 @@
 python
 C
 Rust
-
-Go
 C++
